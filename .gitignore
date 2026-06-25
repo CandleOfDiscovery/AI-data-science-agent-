@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.next/
+.env
+storage/uploads/*
+storage/reports/*
+!storage/uploads/.gitkeep
+!storage/reports/.gitkeep

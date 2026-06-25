@@ -1,0 +1,8 @@
+age,country,salary,churn
+34,US,92000,no
+,US,87000,no
+51,UK,120000,yes
+29,DE,61000,no
+51,UK,120000,yes
+45,,250000,yes
+23,US,48000,no
